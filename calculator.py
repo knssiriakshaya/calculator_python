@@ -40,7 +40,7 @@ def calculatorFunction(user_choice):
         output = find_remainder(a, b)
         return f"The remainder is: {output}"
     else:
-        return("Exiting the calculator, bye bye!")
+        return("Exiting the calculator!!")
 
 def user_input():
     print("Give two numbers on two lines")
